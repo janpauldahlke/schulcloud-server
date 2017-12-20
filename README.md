@@ -28,10 +28,16 @@ There are blog posts on how to setup [client](https://github.com/schul-cloud/sch
 2. run `mongod`
 2. run `npm start`
 
+## Populate DB
+1. Go into folder /backup/setup
+2. run `python seed.py`
+
+
 ## How to name your branch
 
 1. Take the last part of the url of your Trello ticket (e.g. "8-setup-feather-js")
 2. Name the branch "yourname/trelloid" (e.g. "nico/8-setup-feather-js")
+
 
 ## Testing
 
